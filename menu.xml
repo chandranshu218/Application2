@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
-        android:title="@string/one"
+        android:title="one"
         />
     <item
-        android:title="@string/two"
+        android:title="two"
         />
     <item
-        android:title="@string/three"
+        android:title="three"
         />
     <item
-        android:title="@string/four"
+        android:title="four"
         />
     <item
-        android:title="@string/five"
+        android:title="five"
         />
 </menu>
